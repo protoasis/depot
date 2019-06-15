@@ -1,0 +1,7 @@
+The Depot is a light weight server that does not handle world implementations.  This is used for Signal connections, dummy server, and development purposes. 
+This is the first server to be developed for ProtOasis. 
+
+This server will allow Signal development and testing against a real server.
+
+This server will use UDP for UT3 compatible Query protocol, TCP for data transmission, and eventually RSVP and SCTP protocols for testing.
+
